@@ -7,7 +7,7 @@
 ## ID: 20250303221133
 ---
 
-![Streamlit IA - modelo de consulta de estoque.canvas](Streamlit IA - modelo de consulta de estoque.png)
+![Streamlit IA - modelo de consulta de estoque.canvas](app01_canvas.png)
 
 
 # <font color="#c3d69b">Descrição breve: </font>
